@@ -36,7 +36,7 @@ gem 'bulma-rails', '~> 0.8.0'
 gem 'simple_form', '~> 5.0', '>= 5.0.1'
 gem 'gravatar_image_tag', '~> 1.2'
 gem 'devise', '~> 4.7', '>= 4.7.1'
-
+gem "binding_of_caller" 
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
